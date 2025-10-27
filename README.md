@@ -1,6 +1,6 @@
-# Final Project Milestones: Data Exploration & Prototyping
+# Final Project Milestone 1: Data Exploration & Prototyping
 
-**Due Date for Both Milestones:** November 14th, 11:59 PM
+**Due Date for Both Milestones:** November 10th, 11:55 PM
 
 ## Objective
 
@@ -27,7 +27,7 @@ In this milestone, you will conduct exploratory data analysis to assess your dat
 - Based on your exploration, make any necessary adjustments to your project scope.
 - List the types of visualizations you will need to create in your final project.
 
-**Deadline**: November 14th
+**Deadline**: November 10th
 
 ---
 
@@ -49,7 +49,7 @@ This milestone focuses on planning the structure and layout of your visualizatio
 
 - Note any areas where you may need additional support, such as programming assistance or help with certain visualizations.
 
-**Deadline**: November 14th
+**Deadline**: November 10th
 
 ---
 
