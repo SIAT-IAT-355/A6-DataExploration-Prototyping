@@ -57,7 +57,7 @@ This milestone focuses on planning the structure and layout of your visualizatio
 
 - Submit a **single PDF file** containing:
   - **Milestone 1**: Screenshots of preliminary visualizations, an analysis of challenges and limitations, and an updated list of visualization needs.
-  - **Milestone 2**: A Figma (or design tool) layout for your website, an explanation for each visualization’s placement, and a breakdown of tools and roles (if applicable).
+  - For this milestone, you are only obligated to do the first one. The second milestone is a recommended but not required for this week.
 
 - Ensure your file is named as follows:  
   **FinalProjectMilestones_FirstNameLastName.pdf**
