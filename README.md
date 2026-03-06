@@ -27,7 +27,7 @@ In this milestone, you will conduct exploratory data analysis to assess your dat
 - Based on your exploration, make any necessary adjustments to your project scope.
 - List the types of visualizations you will need to create in your final project.
 
-**Deadline**: November 10th
+**Deadline**: March 23rd
 
 ---
 
@@ -49,7 +49,7 @@ This milestone focuses on planning the structure and layout of your visualizatio
 
 - Note any areas where you may need additional support, such as programming assistance or help with certain visualizations.
 
-**Deadline**: November 17th
+**Deadline**: April 3rd
 
 ---
 
