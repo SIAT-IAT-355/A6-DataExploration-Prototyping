@@ -1,6 +1,6 @@
 # Final Project Milestone 1: Data Exploration & Prototyping
 
-**Due Date for Both Milestones:** November 10th, 11:55 PM
+**Due Date for Both Milestones:** March 23rd, 11:55 PM
 
 ## Objective
 
